@@ -1,0 +1,818 @@
+Name,Country,Position,Goals,Assists,Tackles,Saves,Club,League,League_Website
+Saad Al Sheeb,Qatar,GK,0,0,0,0,Al-Sadd,Unknown,Unknown
+Meshaal Barsham,Qatar,GK,0,0,0,0,Al-Sadd,Unknown,Unknown
+Yousuf Hassan,Qatar,GK,0,0,0,0,Al-Gharafa,Unknown,Unknown
+Pedro Miguel,Qatar,DF,0,0,0,0,Al-Sadd,Unknown,Unknown
+Musaab Khidir,Qatar,DF,0,0,0,0,Al-Sadd,Unknown,Unknown
+Tarek Salman,Qatar,DF,0,0,0,0,Al-Sadd,Unknown,Unknown
+Bassam Al Rawi,Qatar,DF,0,0,0,0,Al-Duhail,Unknown,Unknown
+Boualem Khoukhi,Qatar,DF,0,0,0,0,Al-Sadd,Unknown,Unknown
+Abdelkarim Hassan,Qatar,DF,0,0,0,0,Al-Sadd,Unknown,Unknown
+Homam Al Amin,Qatar,DF,0,0,0,0,Al-Gharafa,Unknown,Unknown
+Jassim Gabir,Qatar,DF,0,0,0,0,Al-Arabi,Unknown,Unknown
+Ali Asad,Qatar,MF,0,0,0,0,Al-Sadd,Unknown,Unknown
+Assim Madibo,Qatar,MF,0,0,0,0,Al-Duhail,Unknown,Unknown
+Mohammed Waad,Qatar,MF,0,0,0,0,Al-Sadd,Unknown,Unknown
+Salem Al Hajri,Qatar,MF,0,0,0,0,Al-Sadd,Unknown,Unknown
+Mustafa Meshaal,Qatar,MF,0,0,0,0,Al-Sadd,Unknown,Unknown
+Karim Boudiaf,Qatar,MF,0,0,0,0,Al-Duhail,Unknown,Unknown
+Abdulaziz Hatim,Qatar,MF,0,0,0,0,Al-Rayyan,Unknown,Unknown
+Ismaeel Mohammad,Qatar,MF,0,0,0,0,Al-Duhail,Unknown,Unknown
+Naif Al Hadhrami,Qatar,FW,0,0,0,0,Al-Rayyan,Unknown,Unknown
+Ahmed Alaa,Qatar,FW,0,0,0,0,Al-Gharafa,Unknown,Unknown
+Hassan Al Haydos,Qatar,FW,0,0,0,0,Al-Sadd,Unknown,Unknown
+Khalid Muneer,Qatar,FW,0,0,0,0,Al-Wakrah,Unknown,Unknown
+Akram Afif,Qatar,FW,0,0,0,0,Al-Sadd,Unknown,Unknown
+Almoez Ali,Qatar,FW,0,0,0,0,Al-Duhail,Unknown,Unknown
+Mohammed Muntari,Qatar,FW,0,0,0,0,Al-Duhail,Unknown,Unknown
+Alexander Dominguez,Ecuador,GK,0,0,0,0,Liga de Quito,Unknown,Unknown
+Hernan Galindez,Ecuador,GK,0,0,0,0,Aucas,Unknown,Unknown
+Moises Ramirez,Ecuador,GK,0,0,0,0,Independiente del Valle,Unknown,Unknown
+Pervis Estupinan,Ecuador,DF,0,0,0,0,Brighton & Hove Albion,Unknown,Unknown
+Angelo Preciado,Ecuador,DF,0,0,0,0,Gent,Unknown,Unknown
+Piero Hincapie,Ecuador,DF,0,0,0,0,Bayer Leverkusen,Unknown,Unknown
+Xavier Arreaga,Ecuador,DF,0,0,0,0,Seattle Sounders,Unknown,Unknown
+Diego Palacios,Ecuador,DF,0,0,0,0,Los Angeles FC,Unknown,Unknown
+Jackson Porozo,Ecuador,DF,0,0,0,0,Troyes,Unknown,Unknown
+Robert Arboleda,Ecuador,DF,0,0,0,0,Sao Paulo,Unknown,Unknown
+Felix Torres,Ecuador,DF,0,0,0,0,Santos Laguna,Unknown,Unknown
+William Pacho,Ecuador,DF,0,0,0,0,Royal Antwerp FC,Unknown,Unknown
+Moises Caicedo,Ecuador,MF,0,0,0,0,Brighton,Unknown,Unknown
+Jose Cifuentes,Ecuador,MF,0,0,0,0,Los Angeles FC,Unknown,Unknown
+Alan Franco,Ecuador,MF,0,0,0,0,Talleres,Unknown,Unknown
+Jhegson Mendez,Ecuador,MF,0,0,0,0,Los Angeles FC,Unknown,Unknown
+Carlos Gruezo,Ecuador,MF,0,0,0,0,Augsburg,Unknown,Unknown
+Gonzalo Plata,Ecuador,MF,0,0,0,0,Valladolid,Unknown,Unknown
+Angel Mena,Ecuador,MF,0,0,0,0,Leon,Unknown,Unknown
+Ayrton Preciado,Ecuador,MF,0,0,0,0,Santos Laguna,Unknown,Unknown
+Romario Ibarra,Ecuador,MF,0,0,0,0,Pachuca,Unknown,Unknown
+Jeremy Sarmiento,Ecuador,MF,0,0,0,0,Brighton,Unknown,Unknown
+Enner Valencia,Ecuador,FW,0,0,0,0,Fenerbahce,Unknown,Unknown
+Michael Estrada,Ecuador,FW,0,0,0,0,Cruz Azul,Unknown,Unknown
+Djorkaeff Reasco,Ecuador,FW,0,0,0,0,Newell's Old Boys,Unknown,Unknown
+Kevin Rodriguez,Ecuador,FW,0,0,0,0,Imbabura SC,Unknown,Unknown
+Seny Dieng,Senegal,GK,0,0,0,0,Queens Park Rangers,Unknown,Unknown
+Alfred Gomis,Senegal,GK,0,0,0,0,Stade Rennes,Unknown,Unknown
+Eduoard Mendy,Senegal,GK,0,0,0,0,Chelsea,Unknown,Unknown
+Fode Ballo Toure,Senegal,DF,0,0,0,0,AC Milan,Unknown,Unknown
+Pape Abou Cisse,Senegal,DF,0,0,0,0,Olympiakos,Unknown,Unknown
+Abdou Diallo,Senegal,DF,0,0,0,0,RB Leipzig,Unknown,Unknown
+Ismail Jakobs,Senegal,DF,0,0,0,0,Monaco,Unknown,Unknown
+Kalidou Koulibaly,Senegal,DF,0,0,0,0,Chelsea,Unknown,Unknown
+Formose Mendy,Senegal,DF,0,0,0,0,Amiens,Unknown,Unknown
+Youssouf Sabaly,Senegal,DF,0,0,0,0,Real Betis,Unknown,Unknown
+Pathe Ismael Ciss,Senegal,MF,0,0,0,0,Rayo Vallecano Krepin Diatta,Unknown,Unknown
+Idrissa Gana Gueye,Senegal,MF,0,0,0,0,Everton,Unknown,Unknown
+Pape Gueye,Senegal,MF,0,0,0,0,Olympique Marseille,Unknown,Unknown
+Cheikhou Kouyate,Senegal,MF,0,0,0,0,Nottingham Forest,Unknown,Unknown
+Mamdou Loum,Senegal,MF,0,0,0,0,Reading,Unknown,Unknown
+Nampalys Mendy,Senegal,MF,0,0,0,0,Leicester City,Unknown,Unknown
+Moustapha Name,Senegal,MF,0,0,0,0,Pafos FC,Unknown,Unknown
+Pape Matar Sarr,Senegal,MF,0,0,0,0,Tottenham Hotspur,Unknown,Unknown
+Boulaye Dia,Senegal,FW,0,0,0,0,Salernitana,Unknown,Unknown
+Famara Diedhiou,Senegal,FW,0,0,0,0,Alanyaspor,Unknown,Unknown
+Bamba Dieng,Senegal,FW,0,0,0,0,Olympique Marseille,Unknown,Unknown
+Nicolas Jackson,Senegal,FW,0,0,0,0,Villarreal,Unknown,Unknown
+Ilimane Ndiaye,Senegal,FW,0,0,0,0,Sheffield United,Unknown,Unknown
+Ismaila Sarr,Senegal,FW,0,0,0,0,Watford,Unknown,Unknown
+Justin Bijlow,Netherlands,GK,0,0,0,0,Feyenoord,Unknown,Unknown
+Andries Noppert,Netherlands,GK,0,0,0,0,Heerenveen,Unknown,Unknown
+Remko Pasveer,Netherlands,GK,0,0,0,0,Ajax Amsterdam,Unknown,Unknown
+Nathan Ake,Netherlands,DF,0,0,0,0,Manchester City,Unknown,Unknown
+Daley Blind,Netherlands,DF,0,0,0,0,Ajax,Unknown,Unknown
+Virgil van Dijk,Netherlands,DF,0,0,0,0,Liverpool,Unknown,Unknown
+Denzel Dumfries,Netherlands,DF,0,0,0,0,Internazionale,Unknown,Unknown
+Jeremie Frimpong,Netherlands,DF,0,0,0,0,Bayer Leverkusen,Unknown,Unknown
+Matthijs de Ligt,Netherlands,DF,0,0,0,0,Bayern Munchen,Unknown,Unknown
+Tyrell Malacia,Netherlands,DF,0,0,0,0,Manchester United,Unknown,Unknown
+Jurrien Timber,Netherlands,DF,0,0,0,0,Ajax,Unknown,Unknown
+Stefan de Vrij,Netherlands,DF,0,0,0,0,Internazionale,Unknown,Unknown
+Steven Berghuis,Netherlands,MF,0,0,0,0,Ajax,Unknown,Unknown
+Frenkie de Jong,Netherlands,MF,0,0,0,0,Barcelona,Unknown,Unknown
+Davy Klaassen,Netherlands,MF,0,0,0,0,Ajax,Unknown,Unknown
+Teun Koopmeiners,Netherlands,MF,0,0,0,0,Atalanta Bergamo,Unknown,Unknown
+Marten de Roon,Netherlands,MF,0,0,0,0,Atalanta Bergamo,Unknown,Unknown
+Xavi Simons,Netherlands,MF,0,0,0,0,PSV Eindhoven,Unknown,Unknown
+Kenneth Taylor,Netherlands,MF,0,0,0,0,Ajax,Unknown,Unknown
+Steven Bergwijn,Netherlands,FW,0,0,0,0,Ajax,Unknown,Unknown
+Memphis Depay,Netherlands,FW,0,0,0,0,Barcelona,Unknown,Unknown
+Cody Gakpo,Netherlands,FW,0,0,0,0,PSV,Unknown,Unknown
+Vincent Janssen,Netherlands,FW,0,0,0,0,Antwerp,Unknown,Unknown
+Luuk de Jong,Netherlands,FW,0,0,0,0,PSV,Unknown,Unknown
+Noah Lang,Netherlands,FW,0,0,0,0,Club Brugge,Unknown,Unknown
+Wout Weghorst,Netherlands,FW,0,0,0,0,Besiktas,Unknown,Unknown
+Jordan Pickford,England,GK,0,0,0,0,Everton,Unknown,Unknown
+Aaron Ramsdale,England,GK,0,0,0,0,Arsenal,Unknown,Unknown
+Nick Pope,England,GK,0,0,0,0,Newcastle,Unknown,Unknown
+Kieran Trippier,England,DF,0,0,0,0,Newcastle,Unknown,Unknown
+Trent Alexander-Arnold,England,DF,0,0,0,0,Liverpool,Unknown,Unknown
+Kyle Walker,England,DF,0,0,0,0,Man City,Unknown,Unknown
+Benjamin White,England,DF,0,0,0,0,Arsenal,Unknown,Unknown
+Harry Maguire,England,DF,0,0,0,0,Man Utd,Unknown,Unknown
+John Stones,England,DF,0,0,0,0,Man City,Unknown,Unknown
+Eric Dier,England,DF,0,0,0,0,Tottenham,Unknown,Unknown
+Conor Coady,England,DF,0,0,0,0,Everton,Unknown,Unknown
+on loan from Wolves),England,DF,0,0,0,0,Everton,Unknown,Unknown
+Luke Shaw,England,DF,0,0,0,0,Man Utd,Unknown,Unknown
+Declan Rice,England,MF,0,0,0,0,West Ham,Unknown,Unknown
+Jude Bellingham,England,MF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
+Kalvin Phillips,England,MF,0,0,0,0,Man City,Unknown,Unknown
+Jordan Henderson,England,MF,0,0,0,0,Liverpool,Unknown,Unknown
+Conor Gallagher,England,MF,0,0,0,0,Chelsea,Unknown,Unknown
+Mason Mount,England,MF,0,0,0,0,Chelsea,Unknown,Unknown
+Harry Kane,England,FW,0,0,0,0,Tottenham,Unknown,Unknown
+Callum Wilson,England,FW,0,0,0,0,Newcastle,Unknown,Unknown
+Marcus Rashford,England,FW,0,0,0,0,Man Utd,Unknown,Unknown
+Raheem Sterling,England,FW,0,0,0,0,Chelsea,Unknown,Unknown
+Bukayo Saka,England,FW,0,0,0,0,Arsenal,Unknown,Unknown
+Phil Foden,England,FW,0,0,0,0,Man City,Unknown,Unknown
+Jack Grealish,England,FW,0,0,0,0,Man City,Unknown,Unknown
+James Maddison,England,FW,0,0,0,0,Leicester City,Unknown,Unknown
+Alireza Beiranvand,Iran,GK,0,0,0,0,Persepolis,Unknown,Unknown
+Hossein Hosseini,Iran,GK,0,0,0,0,Esteghlal,Unknown,Unknown
+Payam Niazmand,Iran,GK,0,0,0,0,Sepahan,Unknown,Unknown
+Amir Abedzadeh,Iran,GK,0,0,0,0,Ponferradina,Unknown,Unknown
+Ramin Rezaeian,Iran,DF,0,0,0,0,Sepahan,Unknown,Unknown
+Abolfazl Jalali,Iran,DF,0,0,0,0,Esteghlal,Unknown,Unknown
+Hossein Kananizadegan,Iran,DF,0,0,0,0,Al Ahli SC,Unknown,Unknown
+Shoja Khalilzadeh,Iran,DF,0,0,0,0,Al Ahli SC,Unknown,Unknown
+Mortza Pouraliganji,Iran,DF,0,0,0,0,Persepolis,Unknown,Unknown
+Majid Hosseini,Iran,DF,0,0,0,0,Kayserispor,Unknown,Unknown
+Sadegh Moharrami,Iran,DF,0,0,0,0,Dinamo Zagreb,Unknown,Unknown
+Milad Mohammadi,Iran,DF,0,0,0,0,AEK,Unknown,Unknown
+Ehsan Hajisafi,Iran,DF,0,0,0,0,AEK,Unknown,Unknown
+Saeid Ezatolahi,Iran,MF,0,0,0,0,Vejle Boldklub,Unknown,Unknown
+Ahmad Nourollahi,Iran,MF,0,0,0,0,Shabab Al Ahli,Unknown,Unknown
+Ali Karimi,Iran,MF,0,0,0,0,Kayserispor,Unknown,Unknown
+Rouzbeh Cheshmi,Iran,MF,0,0,0,0,Esteghlal,Unknown,Unknown
+Vahid Amiri,Iran,MF,0,0,0,0,Persepolis,Unknown,Unknown
+Mehdi Torabi,Iran,MF,0,0,0,0,Persepolis,Unknown,Unknown
+Alireza Jahanbakhsh,Iran,MF,0,0,0,0,Feyenoord,Unknown,Unknown
+Ali Gholizadeh,Iran,MF,0,0,0,0,Charleroi,Unknown,Unknown
+Saman Ghoddos,Iran,MF,0,0,0,0,Brentford,Unknown,Unknown
+Sardar Azmoun,Iran,FW,0,0,0,0,Bayer Leverkusen,Unknown,Unknown
+Karim Ansarifard,Iran,FW,0,0,0,0,Omonia,Unknown,Unknown
+Mehdi Taremi,Iran,FW,0,0,0,0,Porto,Unknown,Unknown
+Ethan Horvath,United States,GK,0,0,0,0,Luton,Unknown,Unknown
+Sean Johnson,United States,GK,0,0,0,0,New York City FC,Unknown,Unknown
+Matt Turner,United States,GK,0,0,0,0,Arsenal,Unknown,Unknown
+Cameron Carter-Vickers,United States,DF,0,0,0,0,Celtic,Unknown,Unknown
+Sergino Dest,United States,DF,0,0,0,0,AC Milan,Unknown,Unknown
+Aaron Long,United States,DF,0,0,0,0,New York Red Bulls,Unknown,Unknown
+Shaq Moore,United States,DF,0,0,0,0,Nashville,Unknown,Unknown
+Tim Ream,United States,DF,0,0,0,0,Fulham,Unknown,Unknown
+Antonee Robinson,United States,DF,0,0,0,0,Fulham,Unknown,Unknown
+Joe Scally,United States,DF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+DeAndre Yedlin,United States,DF,0,0,0,0,Inter Miami,Unknown,Unknown
+Walker Zimmerman,United States,DF,0,0,0,0,Nashville,Unknown,Unknown
+Brenden Aaronson,United States,MF,0,0,0,0,Leeds,Unknown,Unknown
+Kellyn Acosta,United States,MF,0,0,0,0,LAFC,Unknown,Unknown
+Tyler Adams,United States,MF,0,0,0,0,Leeds,Unknown,Unknown
+Luca de la Torre,United States,MF,0,0,0,0,Celta Vigo,Unknown,Unknown
+Weston McKennie,United States,MF,0,0,0,0,Juventus,Unknown,Unknown
+Yunus Musah,United States,MF,0,0,0,0,Valencia,Unknown,Unknown
+Cristian Roldan,United States,MF,0,0,0,0,Seattle Sounders,Unknown,Unknown
+Jesus Ferreira,United States,FW,0,0,0,0,FC Dallas,Unknown,Unknown
+Jordan Morris,United States,FW,0,0,0,0,Seattle Sounders,Unknown,Unknown
+Christian Pulisic,United States,FW,0,0,0,0,Chelsea,Unknown,Unknown
+Gio Reyna,United States,FW,0,0,0,0,Borussia Dortmund,Unknown,Unknown
+Josh Sargent,United States,FW,0,0,0,0,Norwich,Unknown,Unknown
+Tim Weah,United States,FW,0,0,0,0,Lille,Unknown,Unknown
+Haji Wright,United States,FW,0,0,0,0,Antalayaspor,Unknown,Unknown
+Wayne Hennessey,Wales,GK,0,0,0,0,Nottingham Forest,Unknown,Unknown
+Danny Ward,Wales,GK,0,0,0,0,Leicester,Unknown,Unknown
+Adam Davies,Wales,GK,0,0,0,0,Sheffield UnitedDefenders,Unknown,Unknown
+Franco Armani,Wales,DF,0,0,0,0,River Plate,Unknown,Unknown
+Emiliano Martinez,Wales,DF,0,0,0,0,Aston Villa,Unknown,Unknown
+Geronimo Rulli,Wales,DF,0,0,0,0,Villarreal,Unknown,Unknown
+Marcos Acuna,Wales,MF,0,0,0,0,Sevilla,Unknown,Unknown
+Juan Foyth,Wales,MF,0,0,0,0,Villarreal,Unknown,Unknown
+Lisandro Martinez,Wales,MF,0,0,0,0,Manchester United,Unknown,Unknown
+Nahuel Molina,Wales,MF,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Gonzalo Montiel,Wales,MF,0,0,0,0,Sevilla,Unknown,Unknown
+Nicolas Otamendi,Wales,MF,0,0,0,0,Benfica,Unknown,Unknown
+German Pezzella,Wales,MF,0,0,0,0,Real Betis,Unknown,Unknown
+Cristian Romero,Wales,MF,0,0,0,0,Tottenham,Unknown,Unknown
+Nicolas Tagliafico,Wales,MF,0,0,0,0,Lyon,Unknown,Unknown
+Rodrigo De Paul,Wales,FW,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Enzo Fernandez,Wales,FW,0,0,0,0,Benfica,Unknown,Unknown
+Alejandro Gomez,Wales,FW,0,0,0,0,Sevilla,Unknown,Unknown
+Alexis Mac Allister,Wales,FW,0,0,0,0,Brighton,Unknown,Unknown
+Exequiel Palacios,Wales,FW,0,0,0,0,Bayer Leverkusen,Unknown,Unknown
+Leandro Paredes,Wales,FW,0,0,0,0,Juventus,Unknown,Unknown
+Guido Rodriquez,Wales,FW,0,0,0,0,Real Betis,Unknown,Unknown
+Franco Armani,Argentina,GK,0,0,0,0,River Plate,Unknown,Unknown
+Emiliano Martinez,Argentina,GK,0,0,0,0,Aston Villa,Unknown,Unknown
+Geronimo Rulli,Argentina,GK,0,0,0,0,Villarreal,Unknown,Unknown
+Marcos Acuna,Argentina,DF,0,0,0,0,Sevilla,Unknown,Unknown
+Juan Foyth,Argentina,DF,0,0,0,0,Villarreal,Unknown,Unknown
+Lisandro Martinez,Argentina,DF,0,0,0,0,Manchester United,Unknown,Unknown
+Nahuel Molina,Argentina,DF,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Gonzalo Montiel,Argentina,DF,0,0,0,0,Sevilla,Unknown,Unknown
+Nicolas Otamendi,Argentina,DF,0,0,0,0,Benfica,Unknown,Unknown
+German Pezzella,Argentina,DF,0,0,0,0,Real Betis,Unknown,Unknown
+Cristian Romero,Argentina,DF,0,0,0,0,Tottenham,Unknown,Unknown
+Nicolas Tagliafico,Argentina,DF,0,0,0,0,Lyon,Unknown,Unknown
+Rodrigo De Paul,Argentina,MF,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Enzo Fernandez,Argentina,MF,0,0,0,0,Benfica,Unknown,Unknown
+Alejandro Gomez,Argentina,MF,0,0,0,0,Sevilla,Unknown,Unknown
+Alexis Mac Allister,Argentina,MF,0,0,0,0,Brighton,Unknown,Unknown
+Exequiel Palacios,Argentina,MF,0,0,0,0,Bayer Leverkusen,Unknown,Unknown
+Leandro Paredes,Argentina,MF,0,0,0,0,Juventus,Unknown,Unknown
+Guido Rodriquez,Argentina,MF,0,0,0,0,Real Betis,Unknown,Unknown
+Julian Alvarez,Argentina,FW,0,0,0,0,Manchester City,Unknown,Unknown
+Joaquin Correa,Argentina,FW,0,0,0,0,Inter Milan,Unknown,Unknown
+Paulo Dybala,Argentina,FW,0,0,0,0,Roma,Unknown,Unknown
+Angel Di Maria,Argentina,FW,0,0,0,0,Juventus,Unknown,Unknown
+Lautaro Martinez,Argentina,FW,0,0,0,0,Inter Milan,Unknown,Unknown
+Lionel Messi,Argentina,FW,0,0,0,0,Paris Saint-Germain,Unknown,Unknown
+Angel Correa,Argentina,FW,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Mohamed Al-Owais,Saudi Arabia,GK,0,0,0,0,Al-Hilal,Unknown,Unknown
+Nawaf Al-Aqidi,Saudi Arabia,GK,0,0,0,0,Al-Nassr,Unknown,Unknown
+Mohamed Al-Yami,Saudi Arabia,GK,0,0,0,0,Al-Ahly,Unknown,Unknown
+Yasser Al-Shahrani,Saudi Arabia,DF,0,0,0,0,Al-Hilal,Unknown,Unknown
+Ali Al-Bulaihi,Saudi Arabia,DF,0,0,0,0,Al-Hilal,Unknown,Unknown
+Abdulelah Al-Amri,Saudi Arabia,DF,0,0,0,0,Al-Nassr,Unknown,Unknown
+Abdullah Madu,Saudi Arabia,DF,0,0,0,0,Al-Nassr,Unknown,Unknown
+Hassan Tambakti,Saudi Arabia,DF,0,0,0,0,Al-Shabab,Unknown,Unknown
+Sultan Al-Ghanam,Saudi Arabia,DF,0,0,0,0,Al-Nassr,Unknown,Unknown
+Mohammed Al-Breik,Saudi Arabia,DF,0,0,0,0,Al-Hilal,Unknown,Unknown
+Saud Abdulhamid,Saudi Arabia,DF,0,0,0,0,Al-Hilal,Unknown,Unknown
+Salman Al-Faraj,Saudi Arabia,MF,0,0,0,0,Al-Hilal,Unknown,Unknown
+Riyadh Sharahili,Saudi Arabia,MF,0,0,0,0,Abha,Unknown,Unknown
+Ali Al-Hassan,Saudi Arabia,MF,0,0,0,0,Al-Nassr,Unknown,Unknown
+Mohamed Kanno,Saudi Arabia,MF,0,0,0,0,Al-Hilal,Unknown,Unknown
+Abdulelah Al-Malki,Saudi Arabia,MF,0,0,0,0,Al-Hilal,Unknown,Unknown
+Sami Al-Najei,Saudi Arabia,MF,0,0,0,0,Al-Nassr,Unknown,Unknown
+Abdullah Otayf,Saudi Arabia,MF,0,0,0,0,Al-Hilal,Unknown,Unknown
+Nasser Al-Dawsari,Saudi Arabia,MF,0,0,0,0,Al-Hilal,Unknown,Unknown
+Abdulrahman Al-Aboud,Saudi Arabia,MF,0,0,0,0,Ittihad,Unknown,Unknown
+Salem Al-Dawsari,Saudi Arabia,MF,0,0,0,0,Al-Hilal,Unknown,Unknown
+Hattan Bahebri,Saudi Arabia,MF,0,0,0,0,Al-Shabab,Unknown,Unknown
+Nawaf Al-Abed,Saudi Arabia,FW,0,0,0,0,Al-Shabab,Unknown,Unknown
+Haitham Asiri,Saudi Arabia,FW,0,0,0,0,Al-Ahly,Unknown,Unknown
+Saleh Al-Shehri,Saudi Arabia,FW,0,0,0,0,Al-Hilal Firas Al-Buraikan,Unknown,Unknown
+Guillermo Ochoa,Mexico,GK,0,0,0,0,America,Unknown,Unknown
+Alfredo Talavera,Mexico,GK,0,0,0,0,Juarez,Unknown,Unknown
+Rodolfo Cota,Mexico,GK,0,0,0,0,Leon,Unknown,Unknown
+Jorge Sanchez,Mexico,DF,0,0,0,0,Ajax,Unknown,Unknown
+Kevin Alvarez,Mexico,DF,0,0,0,0,Pachuca,Unknown,Unknown
+Nestor Araujo,Mexico,DF,0,0,0,0,America,Unknown,Unknown
+Johan Vasquez,Mexico,DF,0,0,0,0,Cremonese,Unknown,Unknown
+Hector Moreno,Mexico,DF,0,0,0,0,Monterrey,Unknown,Unknown
+Cesar Montes,Mexico,DF,0,0,0,0,Monterrey,Unknown,Unknown
+Gerardo Arteaga,Mexico,DF,0,0,0,0,Genk,Unknown,Unknown
+Jesus Gallardo,Mexico,DF,0,0,0,0,Monterrey,Unknown,Unknown
+Andres Guardado,Mexico,MF,0,0,0,0,Real Betis,Unknown,Unknown
+Hector Herrera,Mexico,MF,0,0,0,0,Houston Dynamo,Unknown,Unknown
+Charly Rodriguez,Mexico,MF,0,0,0,0,Cruz Azul,Unknown,Unknown
+Erick Gutierrez,Mexico,MF,0,0,0,0,PSV,Unknown,Unknown
+Luis Chavez,Mexico,MF,0,0,0,0,Pachuca,Unknown,Unknown
+Edson Alvarez,Mexico,MF,0,0,0,0,Ajax,Unknown,Unknown
+Orbelin Pineda,Mexico,MF,0,0,0,0,AEK Athens,Unknown,Unknown
+Luis Romo,Mexico,MF,0,0,0,0,Monterrey,Unknown,Unknown
+Alexis Vega,Mexico,FW,0,0,0,0,Guadalajara,Unknown,Unknown
+Hirving Lozano,Mexico,FW,0,0,0,0,Napoli,Unknown,Unknown
+Raul Jimenez,Mexico,FW,0,0,0,0,Wolves,Unknown,Unknown
+Roberto Alvarado,Mexico,FW,0,0,0,0,Guadalajara,Unknown,Unknown
+Uriel Antuna,Mexico,FW,0,0,0,0,Cruz Azul,Unknown,Unknown
+Henry Martin,Mexico,FW,0,0,0,0,America,Unknown,Unknown
+Rogelio Funes Mori,Mexico,FW,0,0,0,0,Monterrey,Unknown,Unknown
+Kamil Grabara,Poland,GK,0,0,0,0,FC Copenhagen,Unknown,Unknown
+Lukasz Skorupski,Poland,GK,0,0,0,0,Bologna,Unknown,Unknown
+Wojciech Szczesny,Poland,GK,0,0,0,0,Juventus,Unknown,Unknown
+Jan Bednarek,Poland,DF,0,0,0,0,Aston Villa,Unknown,Unknown
+Bartosz Bereszynski,Poland,DF,0,0,0,0,Sampdoria,Unknown,Unknown
+Matty Cash,Poland,DF,0,0,0,0,Aston Villa,Unknown,Unknown
+Kamil Glik,Poland,DF,0,0,0,0,Benevento,Unknown,Unknown
+Robert Gumny,Poland,DF,0,0,0,0,FC Augsburg,Unknown,Unknown
+Artur Jedrzejczyk,Poland,DF,0,0,0,0,Legia Warsaw,Unknown,Unknown
+Jakub Kiwior,Poland,DF,0,0,0,0,Spezia,Unknown,Unknown
+Mateusz Wieteska,Poland,DF,0,0,0,0,Clermont,Unknown,Unknown
+Nicola Zalewski,Poland,DF,0,0,0,0,Roma,Unknown,Unknown
+Krystian Bielik,Poland,MF,0,0,0,0,Birmingham,Unknown,Unknown
+Przemyslaw Frankowski,Poland,MF,0,0,0,0,Lens,Unknown,Unknown
+Kamil Grosicki,Poland,MF,0,0,0,0,Pogon Szczecin,Unknown,Unknown
+Jakub Kaminski,Poland,MF,0,0,0,0,VfL Wolfsburg,Unknown,Unknown
+Grzegorz Krychowiak,Poland,MF,0,0,0,0,Al-Shabab,Unknown,Unknown
+Michal Skoras,Poland,MF,0,0,0,0,Lech Poznan,Unknown,Unknown
+Damian Szymanski,Poland,MF,0,0,0,0,AEK Athens,Unknown,Unknown
+Sebastian Szymanski,Poland,MF,0,0,0,0,Feyenoord,Unknown,Unknown
+Piotr Zielinski,Poland,MF,0,0,0,0,Napoli,Unknown,Unknown
+Szymon Zurkowski,Poland,MF,0,0,0,0,Fiorentina,Unknown,Unknown
+Robert Lewandowski,Poland,FW,0,0,0,0,Barcelona,Unknown,Unknown
+Arkadiusz Milik,Poland,FW,0,0,0,0,Juventus,Unknown,Unknown
+Krzysztof Piatek,Poland,FW,0,0,0,0,Salernitana,Unknown,Unknown
+Karol Swiderski,Poland,FW,0,0,0,0,Charlotte FC,Unknown,Unknown
+Alphonse Areola,France,GK,0,0,0,0,West Ham,Unknown,Unknown
+Hugo Lloris,France,GK,0,0,0,0,Tottenham,Unknown,Unknown
+Steve Mandanda,France,GK,0,0,0,0,Rennes,Unknown,Unknown
+Theo Hernandez,France,DF,0,0,0,0,AC Milan,Unknown,Unknown
+Ibrahima Konate,France,DF,0,0,0,0,Liverpool,Unknown,Unknown
+Jules Kounde,France,DF,0,0,0,0,Barcelona,Unknown,Unknown
+Benjamin Pavard,France,DF,0,0,0,0,Bayern Munich,Unknown,Unknown
+William Saliba,France,DF,0,0,0,0,Arsenal,Unknown,Unknown
+Dayot Upamencano,France,DF,0,0,0,0,Bayern Munich,Unknown,Unknown
+Raphael Varane,France,DF,0,0,0,0,Manchester United,Unknown,Unknown
+Axel Disasi,France,DF,0,0,0,0,Monaco,Unknown,Unknown
+Eduardo Camavinga,France,MF,0,0,0,0,Real Madrid,Unknown,Unknown
+Youssouf Fofana,France,MF,0,0,0,0,Monaco,Unknown,Unknown
+Matteo Guendouzi,France,MF,0,0,0,0,Marseille,Unknown,Unknown
+Adrien Rabiot,France,MF,0,0,0,0,Juventus,Unknown,Unknown
+Aurelien Tchouameni,France,MF,0,0,0,0,Real Madrid,Unknown,Unknown
+Jordan Veretout,France,MF,0,0,0,0,Marseille,Unknown,Unknown
+Karim Benzema,France,FW,0,0,0,0,Real Madrid,Unknown,Unknown
+Kingsley Coman,France,FW,0,0,0,0,Bayern Munich,Unknown,Unknown
+Ousmane Dembele,France,FW,0,0,0,0,Barcelona,Unknown,Unknown
+Olivier Giroud,France,FW,0,0,0,0,AC Milan,Unknown,Unknown
+Antoine Griezmann,France,FW,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Kylian Mbappe,France,FW,0,0,0,0,Paris Saint-Germain,Unknown,Unknown
+Randal Kolo Muani,France,FW,0,0,0,0,Eintracht Frankfurt,Unknown,Unknown
+Marcus Thuram,France,FW,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+Mathew Ryan,Australia,GK,0,0,0,0,FC Copenhagen,Unknown,Unknown
+Andrew Redmayne,Australia,GK,0,0,0,0,Sydney FC,Unknown,Unknown
+Danny Vukovic,Australia,GK,0,0,0,0,Central Coast Mariners,Unknown,Unknown
+Aziz Behich,Australia,DF,0,0,0,0,Dundee United,Unknown,Unknown
+Milos Degenek,Australia,DF,0,0,0,0,Columbus Crew,Unknown,Unknown
+Thomas Deng,Australia,DF,0,0,0,0,Aibirex Niigata,Unknown,Unknown
+Joel King,Australia,DF,0,0,0,0,Odense Boldklub,Unknown,Unknown
+Nathaniel Atkinson,Australia,DF,0,0,0,0,Hearts,Unknown,Unknown
+Fran Karacic,Australia,DF,0,0,0,0,Brescia,Unknown,Unknown
+Harry Souttar,Australia,DF,0,0,0,0,Stoke City,Unknown,Unknown
+Kye Rowles,Australia,DF,0,0,0,0,Hearts,Unknown,Unknown
+Craig Goodwin,Australia,DF,0,0,0,0,Adelaide United,Unknown,Unknown
+Aaron Mooy,Australia,MF,0,0,0,0,Celtic,Unknown,Unknown
+Jackson Irvine,Australia,MF,0,0,0,0,St Pauli,Unknown,Unknown
+Ajdin Hrustic,Australia,MF,0,0,0,0,Hellas Verona,Unknown,Unknown
+Bailey Wright,Australia,MF,0,0,0,0,Sunderland,Unknown,Unknown
+Cameron Devlin,Australia,MF,0,0,0,0,Hearts,Unknown,Unknown
+Riley McGree,Australia,MF,0,0,0,0,Middlesbrough,Unknown,Unknown
+Keanu Baccus,Australia,MF,0,0,0,0,St Mirren,Unknown,Unknown
+Awer Mabil,Australia,FW,0,0,0,0,Cadiz,Unknown,Unknown
+Mathew Leckie,Australia,FW,0,0,0,0,Melbourne City,Unknown,Unknown
+Martin Boyle,Australia,FW,0,0,0,0,Hibernian,Unknown,Unknown
+James Maclaren,Australia,FW,0,0,0,0,Melbourne City,Unknown,Unknown
+Jason Cummings,Australia,FW,0,0,0,0,Central Coast Mariners,Unknown,Unknown
+Mitchell Duke,Australia,FW,0,0,0,0,Fagiano Okayama,Unknown,Unknown
+Garang Kuol,Australia,FW,0,0,0,0,Central Coast Mariners,Unknown,Unknown
+Kasper Schmeichel,Denmark,GK,0,0,0,0,Nice,Unknown,Unknown
+Oliver Christensen,Denmark,GK,0,0,0,0,Hertha Berlin,Unknown,Unknown
+Frederik Ronnow,Denmark,GK,0,0,0,0,Union Berlin,Unknown,Unknown
+Simon Kjaer,Denmark,DF,0,0,0,0,AC Milan,Unknown,Unknown
+Joachim Andersen,Denmark,DF,0,0,0,0,Crystal Palace,Unknown,Unknown
+Joakim Maehle,Denmark,DF,0,0,0,0,Atalanta,Unknown,Unknown
+Andreas Christensen,Denmark,DF,0,0,0,0,Barcelona,Unknown,Unknown
+Rasmus Kristensen,Denmark,DF,0,0,0,0,Leeds United,Unknown,Unknown
+Jens Stryger Larsen,Denmark,DF,0,0,0,0,Trabzonspor,Unknown,Unknown
+Victor Nelsson,Denmark,DF,0,0,0,0,Galatasaray,Unknown,Unknown
+Daniel Wass,Denmark,DF,0,0,0,0,Brondby,Unknown,Unknown
+Alexander Bah,Denmark,DF,0,0,0,0,Benfica,Unknown,Unknown
+Thomas Delaney,Denmark,MF,0,0,0,0,Sevilla,Unknown,Unknown
+Mathias Jensen,Denmark,MF,0,0,0,0,Brentford,Unknown,Unknown
+Christian Eriksen,Denmark,MF,0,0,0,0,Manchester United,Unknown,Unknown
+Pierre-Emile Hojbjerg,Denmark,MF,0,0,0,0,Tottenham,Unknown,Unknown
+Robert Skov,Denmark,MF,0,0,0,0,Hoffenheim,Unknown,Unknown
+Christian Norgaard,Denmark,MF,0,0,0,0,Brentford,Unknown,Unknown
+Andreas Skov Olsen,Denmark,FW,0,0,0,0,Club Bruges,Unknown,Unknown
+Jesper Lindstrom,Denmark,FW,0,0,0,0,Eintracht Frankfurt,Unknown,Unknown
+Andreas Cornelius,Denmark,FW,0,0,0,0,Copenhagen,Unknown,Unknown
+Martin Braithwaite,Denmark,FW,0,0,0,0,Espanyol,Unknown,Unknown
+Kasper Dolberg,Denmark,FW,0,0,0,0,Sevilla,Unknown,Unknown
+Mikkel Damsgaard,Denmark,FW,0,0,0,0,Brentford,Unknown,Unknown
+Jonas Wind,Denmark,FW,0,0,0,0,VfL Wolfsburg,Unknown,Unknown
+Yussuf Poulsen,Denmark,FW,0,0,0,0,RB Leipzig,Unknown,Unknown
+Aymen Dahmen,Tunisia,GK,0,0,0,0,CS Sfaxien,Unknown,Unknown
+Bechir Ben Said,Tunisia,GK,0,0,0,0,US Monastir,Unknown,Unknown
+Mouez Hassen,Tunisia,GK,0,0,0,0,Club Africain,Unknown,Unknown
+Aymen Mathlouthi,Tunisia,GK,0,0,0,0,Etoile Sahel,Unknown,Unknown
+Ali Abdi,Tunisia,DF,0,0,0,0,Caen,Unknown,Unknown
+Dylan Bronn,Tunisia,DF,0,0,0,0,Salernitana,Unknown,Unknown
+Mohamed Drager,Tunisia,DF,0,0,0,0,FC Luzern,Unknown,Unknown
+Nader Ghandri,Tunisia,DF,0,0,0,0,Club Africain,Unknown,Unknown
+Bilel Ifa,Tunisia,DF,0,0,0,0,Kuwait SC,Unknown,Unknown
+Wajdi Kechrida,Tunisia,DF,0,0,0,0,Atromitos,Unknown,Unknown
+Ali Maaloul,Tunisia,DF,0,0,0,0,Al Ahly,Unknown,Unknown
+Yassine Meriah,Tunisia,DF,0,0,0,0,Esperance,Unknown,Unknown
+Montassar Talbi,Tunisia,DF,0,0,0,0,Lorient,Unknown,Unknown
+Mohamed Ali Ben Romdhane,Tunisia,MF,0,0,0,0,Esperance,Unknown,Unknown
+Ghaylane Chaalali,Tunisia,MF,0,0,0,0,Esperance,Unknown,Unknown
+Aissa Laidouni,Tunisia,MF,0,0,0,0,Ferencvaros,Unknown,Unknown
+Hannibal Mejbri,Tunisia,MF,0,0,0,0,Birmingham City,Unknown,Unknown
+Ferjani Sassi,Tunisia,MF,0,0,0,0,Al Duhail,Unknown,Unknown
+Elyas Skhiri,Tunisia,MF,0,0,0,0,FC Cologne,Unknown,Unknown
+Anis Ben Slimane,Tunisia,FW,0,0,0,0,Brondby,Unknown,Unknown
+Seifeddine Jaziri,Tunisia,FW,0,0,0,0,Zamalek,Unknown,Unknown
+Issam Jebali,Tunisia,FW,0,0,0,0,Odense,Unknown,Unknown
+Wahbi Khazri,Tunisia,FW,0,0,0,0,Montpellier,Unknown,Unknown
+Taha Yassine Khenissi,Tunisia,FW,0,0,0,0,Kuwait SC,Unknown,Unknown
+Youssef Msakni,Tunisia,FW,0,0,0,0,Al Arabi,Unknown,Unknown
+Naim Sliti,Tunisia,FW,0,0,0,0,Al Ittifaq,Unknown,Unknown
+Unai Simon,Spain,GK,0,0,0,0,Athletic Club,Unknown,Unknown
+Robert Sanchez,Spain,GK,0,0,0,0,Brighton & Hove Albion,Unknown,Unknown
+David Raya,Spain,GK,0,0,0,0,Brentford FC,Unknown,Unknown
+Cesar Azpilicueta,Spain,DF,0,0,0,0,Chelsea FC,Unknown,Unknown
+Dani Carvajal,Spain,DF,0,0,0,0,Real Madrid,Unknown,Unknown
+Eric Garcia,Spain,DF,0,0,0,0,FC Barcelona,Unknown,Unknown
+Hugo Guillamon,Spain,DF,0,0,0,0,Valencia CF,Unknown,Unknown
+Pau Torres,Spain,DF,0,0,0,0,Villarreal CF,Unknown,Unknown
+Aymeric Laporte,Spain,DF,0,0,0,0,Manchester City,Unknown,Unknown
+Jordi Alba,Spain,DF,0,0,0,0,FC Barcelona,Unknown,Unknown
+Alejandro Balde,Spain,DF,0,0,0,0,FC Barcelona,Unknown,Unknown
+Sergio Busquets,Spain,MF,0,0,0,0,FC Barcelona,Unknown,Unknown
+Rodri Hernandez,Spain,MF,0,0,0,0,Manchester City,Unknown,Unknown
+Gavi,Spain,MF,0,0,0,0,FC Barcelona,Unknown,Unknown
+Carlos Soler,Spain,MF,0,0,0,0,Paris St Germain,Unknown,Unknown
+Marcos Llorente,Spain,MF,0,0,0,0,Atletico de Madrid,Unknown,Unknown
+Pedri Gonzalez,Spain,MF,0,0,0,0,FC Barcelona,Unknown,Unknown
+Koke Resurreccion,Spain,MF,0,0,0,0,Atletico de Madrid,Unknown,Unknown
+Ferran Torres,Spain,FW,0,0,0,0,FC Barcelona,Unknown,Unknown
+Nico Williams,Spain,FW,0,0,0,0,Athletic Club,Unknown,Unknown
+Yeremi Pino,Spain,FW,0,0,0,0,Villarreal CF,Unknown,Unknown
+Alvaro Morata,Spain,FW,0,0,0,0,Atletico de Madrid,Unknown,Unknown
+Marco Asensio,Spain,FW,0,0,0,0,Real Madrid,Unknown,Unknown
+Pablo Sarabia,Spain,FW,0,0,0,0,Paris St Germain,Unknown,Unknown
+Dani Olmo,Spain,FW,0,0,0,0,RB Leipzig,Unknown,Unknown
+Ansu Fati,Spain,FW,0,0,0,0,FC Barcelona,Unknown,Unknown
+Keylor Navas,Costa Rica,GK,0,0,0,0,Paris St-Germain,Unknown,Unknown
+Esteban Alvarado,Costa Rica,GK,0,0,0,0,Herediano,Unknown,Unknown
+Patrick Sequeira,Costa Rica,GK,0,0,0,0,CD Lugo,Unknown,Unknown
+Francisco Calvo,Costa Rica,DF,0,0,0,0,Konyaspor,Unknown,Unknown
+Juan Pablo Vargas,Costa Rica,DF,0,0,0,0,Millonarios FC,Unknown,Unknown
+Kendall Waston,Costa Rica,DF,0,0,0,0,Saprissa,Unknown,Unknown
+Oscar Duarte,Costa Rica,DF,0,0,0,0,Al-Wehda,Unknown,Unknown
+Daniel Chacon,Costa Rica,DF,0,0,0,0,Colorado Rapids,Unknown,Unknown
+Keysher Fuller,Costa Rica,DF,0,0,0,0,Herediano,Unknown,Unknown
+Carlos Martinez,Costa Rica,DF,0,0,0,0,San Carlos,Unknown,Unknown
+Bryan Oviedo,Costa Rica,DF,0,0,0,0,Real Salt Lake,Unknown,Unknown
+Ronald Matarrita,Costa Rica,DF,0,0,0,0,Cincinnati,Unknown,Unknown
+Yeltsin Tejeda,Costa Rica,MF,0,0,0,0,Herediano,Unknown,Unknown
+Celso Borges,Costa Rica,MF,0,0,0,0,Alajuelense,Unknown,Unknown
+Youstin Salas,Costa Rica,MF,0,0,0,0,Saprissa,Unknown,Unknown
+Roan Wilson,Costa Rica,MF,0,0,0,0,Grecia,Unknown,Unknown
+Gerson Torres,Costa Rica,MF,0,0,0,0,Herediano,Unknown,Unknown
+Douglas Lopez,Costa Rica,MF,0,0,0,0,Herediano Jewisson Bennette,Unknown,Unknown
+Alvaro Zamora,Costa Rica,MF,0,0,0,0,Saprissa,Unknown,Unknown
+Anthony Hernandez,Costa Rica,MF,0,0,0,0,Puntarenas FC,Unknown,Unknown
+Brandon Aguilera,Costa Rica,MF,0,0,0,0,Nottingham Forest,Unknown,Unknown
+Bryan Ruiz,Costa Rica,MF,0,0,0,0,Alajuelense,Unknown,Unknown
+Joel Campbell,Costa Rica,FW,0,0,0,0,Leon,Unknown,Unknown
+Anthony Contreras,Costa Rica,FW,0,0,0,0,Herediano Johan Venegas,Unknown,Unknown
+Manuel Neuer,Germany,GK,0,0,0,0,Bayern Munich,Unknown,Unknown
+Marc-Andre ter Stegen,Germany,GK,0,0,0,0,Barcelona,Unknown,Unknown
+Kevin Trapp,Germany,GK,0,0,0,0,Eintracht Frankfurt,Unknown,Unknown
+Matthias Ginter,Germany,DF,0,0,0,0,Freiburg,Unknown,Unknown
+Antonio Ruediger,Germany,DF,0,0,0,0,Real Madrid,Unknown,Unknown
+Niklas Suele,Germany,DF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
+Nico Schlotterbeck,Germany,DF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
+Thilo Kehrer,Germany,DF,0,0,0,0,West Ham United,Unknown,Unknown
+David Raum,Germany,DF,0,0,0,0,RB Leipzig,Unknown,Unknown
+Lukas Klostermann,Germany,DF,0,0,0,0,RB Leipzig,Unknown,Unknown
+Armel Bella Kotchap,Germany,DF,0,0,0,0,Southampton,Unknown,Unknown
+Christian Guenter,Germany,DF,0,0,0,0,Freiburg,Unknown,Unknown
+Ilkay Gundogan,Germany,MF,0,0,0,0,Manchester City,Unknown,Unknown
+Jonas Hofmann,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+Leon Goretzka,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+Serge Gnabry,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+Leroy Sane,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+Jamal Musiala,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+Joshua Kimmich,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+Thomas Mueller,Germany,MF,0,0,0,0,all Bayern Munich,Unknown,Unknown
+Julian Brandt,Germany,MF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
+Mario Goetze,Germany,MF,0,0,0,0,Eintracht Frankfurt,Unknown,Unknown
+Kai Havertz,Germany,FW,0,0,0,0,Chelsea,Unknown,Unknown
+Youssoufa Moukoko,Germany,FW,0,0,0,0,Borussia Dortmund,Unknown,Unknown
+Niklas Fuellkrug,Germany,FW,0,0,0,0,Werder Bremen,Unknown,Unknown
+Karim Adeyemi Borussia Dortmund),Germany,FW,0,0,0,0,Werder Bremen,Unknown,Unknown
+Eiji Kawashima,Japan,GK,0,0,0,0,Strasbourg,Unknown,Unknown
+Daniel Schmidt,Japan,GK,0,0,0,0,Sint Truiden,Unknown,Unknown
+Shuichi Gonda,Japan,GK,0,0,0,0,Shimizu S-Pulse,Unknown,Unknown
+Hiroki Sakai,Japan,DF,0,0,0,0,Urawa Red Diamonds,Unknown,Unknown
+Miki Yamane,Japan,DF,0,0,0,0,Kawasaki Frontale,Unknown,Unknown
+Ko Itakura,Japan,DF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+Takehiro Tomiyasu,Japan,DF,0,0,0,0,Arsenal,Unknown,Unknown
+Maya Yoshida,Japan,DF,0,0,0,0,Schalke 04,Unknown,Unknown
+Shogo Taniguchi,Japan,DF,0,0,0,0,Kawasaki Frontale,Unknown,Unknown
+Hiroki Ito,Japan,DF,0,0,0,0,VfB Stuttgart,Unknown,Unknown
+Yuto Nagatomo,Japan,DF,0,0,0,0,FC Tokyo,Unknown,Unknown
+Junya Ito,Japan,MF,0,0,0,0,Stade de Reims,Unknown,Unknown
+Ritsu Doan,Japan,MF,0,0,0,0,SC Freiburg,Unknown,Unknown
+Wataru Endo,Japan,MF,0,0,0,0,VfB Stuttgart,Unknown,Unknown
+Hidemasa Morita,Japan,MF,0,0,0,0,Sporting,Unknown,Unknown
+Ao Tanaka,Japan,MF,0,0,0,0,Fortuna Dusseldorf,Unknown,Unknown
+Daichi Kamada,Japan,MF,0,0,0,0,Eintracht Frankfurt,Unknown,Unknown
+Takefusa Kubo,Japan,MF,0,0,0,0,Real Sociedad,Unknown,Unknown
+Takumi Minamino,Japan,MF,0,0,0,0,AS Monaco,Unknown,Unknown
+Kaoru Mitoma,Japan,MF,0,0,0,0,Brighton & Hove Albion,Unknown,Unknown
+Gaku Shibasaki,Japan,MF,0,0,0,0,Leganes,Unknown,Unknown
+Yuki Soma,Japan,MF,0,0,0,0,Nagoya Grampus,Unknown,Unknown
+Takuma Asano,Japan,FW,0,0,0,0,Vfl Bochum,Unknown,Unknown
+Daizen Maeda,Japan,FW,0,0,0,0,Celtic,Unknown,Unknown
+Ayase Ueda,Japan,FW,0,0,0,0,Cercle Brugge,Unknown,Unknown
+Shuto Machino,Japan,FW,0,0,0,0,Shonan Bellmare,Unknown,Unknown
+Thibaut Courtois,Belgium,GK,0,0,0,0,Real Madrid,Unknown,Unknown
+Simon Mignolet,Belgium,GK,0,0,0,0,Club Brugge,Unknown,Unknown
+Koen Casteels,Belgium,GK,0,0,0,0,VfL Wolfsburg,Unknown,Unknown
+Jan Vertonghen,Belgium,DF,0,0,0,0,Anderlecht,Unknown,Unknown
+Toby Alderweireld,Belgium,DF,0,0,0,0,Royal Antwerp,Unknown,Unknown
+Wout Faes,Belgium,DF,0,0,0,0,Leicester,Unknown,Unknown
+Arthur Theate,Belgium,DF,0,0,0,0,Rennes,Unknown,Unknown
+Zeno Debast,Belgium,DF,0,0,0,0,Anderlecht,Unknown,Unknown
+Thomas Meunier,Belgium,DF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
+Timothy Castagne,Belgium,DF,0,0,0,0,Leicester,Unknown,Unknown
+Kevin De Bruyne,Belgium,MF,0,0,0,0,Man City,Unknown,Unknown
+Youri Tielemans,Belgium,MF,0,0,0,0,Leicester,Unknown,Unknown
+Amadou Onana,Belgium,MF,0,0,0,0,Everton,Unknown,Unknown
+Axel Witsel,Belgium,MF,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Hans Vanaken,Belgium,MF,0,0,0,0,Club Brugge,Unknown,Unknown
+Leander Dendoncker,Belgium,MF,0,0,0,0,Aston Villa,Unknown,Unknown
+Yannick Carrasco,Belgium,MF,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Thorgan Hazard,Belgium,MF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
+Eden Hazard,Belgium,FW,0,0,0,0,Real Madrid,Unknown,Unknown
+Charles De Ketelaere,Belgium,FW,0,0,0,0,AC Milan,Unknown,Unknown
+Leandro Trossard,Belgium,FW,0,0,0,0,Brighton,Unknown,Unknown
+Dries Mertens,Belgium,FW,0,0,0,0,Galatasaray,Unknown,Unknown
+Jeremy Doku,Belgium,FW,0,0,0,0,Rennes,Unknown,Unknown
+Romelu Lukaku,Belgium,FW,0,0,0,0,Inter Milan,Unknown,Unknown
+Michy Batshuayi,Belgium,FW,0,0,0,0,Fenerbahce,Unknown,Unknown
+Lois Openda,Belgium,FW,0,0,0,0,Lens,Unknown,Unknown
+Milan Borjan,Canada,GK,0,0,0,0,Red Star Belgrade,Unknown,Unknown
+Dayne St Clair,Canada,GK,0,0,0,0,Minnesota United,Unknown,Unknown
+James Pantemis,Canada,GK,0,0,0,0,CF Montreal,Unknown,Unknown
+Steven Vitoria,Canada,DF,0,0,0,0,Chaves,Unknown,Unknown
+Alistair Johnston,Canada,DF,0,0,0,0,CF Montreal,Unknown,Unknown
+Richie Laryea,Canada,DF,0,0,0,0,Nottingham Forest/Toronto FC on loan,Unknown,Unknown
+Kamal Miller,Canada,DF,0,0,0,0,CF Montreal,Unknown,Unknown
+Sam Adekugbe,Canada,DF,0,0,0,0,Hatayspor,Unknown,Unknown
+Joel Waterman,Canada,DF,0,0,0,0,CF Montreal,Unknown,Unknown
+Derek Cornelius,Canada,DF,0,0,0,0,Panetolikos,Unknown,Unknown
+Atiba Hutchinson,Canada,MF,0,0,0,0,Besiktas,Unknown,Unknown
+Jonathan Osorio,Canada,MF,0,0,0,0,Toronto FC,Unknown,Unknown
+Stephen Eustaquio,Canada,MF,0,0,0,0,FC Porto,Unknown,Unknown
+Liam Fraser,Canada,MF,0,0,0,0,Deinze,Unknown,Unknown
+Samuel Piette,Canada,MF,0,0,0,0,CF Montreal,Unknown,Unknown
+Mark-Anthony Kaye,Canada,MF,0,0,0,0,Toronto FC,Unknown,Unknown
+Ismael Kone,Canada,MF,0,0,0,0,CF Montreal,Unknown,Unknown
+David Wotherspoon,Canada,MF,0,0,0,0,St Johnstone FC,Unknown,Unknown
+Alphonso Davies,Canada,FW,0,0,0,0,Bayern Munich,Unknown,Unknown
+Jonathan David,Canada,FW,0,0,0,0,Lille,Unknown,Unknown
+Cyle Larin,Canada,FW,0,0,0,0,Club Brugge,Unknown,Unknown
+Ike Ugbo,Canada,FW,0,0,0,0,Troyes,Unknown,Unknown
+Lucas Cavallini,Canada,FW,0,0,0,0,Vancouver Whitecaps,Unknown,Unknown
+Tajon Buchanan,Canada,FW,0,0,0,0,Club Brugge,Unknown,Unknown
+Junior Hoilett,Canada,FW,0,0,0,0,Reading,Unknown,Unknown
+Liam Millar,Canada,FW,0,0,0,0,Basel,Unknown,Unknown
+Yassine Bounou,Morocco,GK,0,0,0,0,Sevilla,Unknown,Unknown
+Munir El Kajoui,Morocco,GK,0,0,0,0,Al Wehda,Unknown,Unknown
+Ahmed Reda Tagnaouti,Morocco,GK,0,0,0,0,Wydad Casablanca,Unknown,Unknown
+Nayef Aguerd,Morocco,DF,0,0,0,0,West Ham United,Unknown,Unknown
+Yahia Attiat Allah,Morocco,DF,0,0,0,0,Wydad Casablanca,Unknown,Unknown
+Badr Benoun,Morocco,DF,0,0,0,0,Qatar SC,Unknown,Unknown
+Achraf Dari,Morocco,DF,0,0,0,0,Stade Brest,Unknown,Unknown
+Jawad El Yamiq,Morocco,DF,0,0,0,0,Real Valladolid,Unknown,Unknown
+Achraf Hakimi,Morocco,DF,0,0,0,0,Paris Saint-Germain,Unknown,Unknown
+Noussair Mazraoui,Morocco,DF,0,0,0,0,Bayern Munich,Unknown,Unknown
+Romain Saiss,Morocco,DF,0,0,0,0,Besiktas,Unknown,Unknown
+Sofyan Amrabat,Morocco,MF,0,0,0,0,Fiorentina,Unknown,Unknown
+Selim Amallah,Morocco,MF,0,0,0,0,Standard Liege,Unknown,Unknown
+Bilal El Khannouss,Morocco,MF,0,0,0,0,Racing Genk,Unknown,Unknown
+Yahya Jabrane,Morocco,MF,0,0,0,0,Wydad Casablanca,Unknown,Unknown
+Azzedine Ounahi,Morocco,MF,0,0,0,0,Angers,Unknown,Unknown
+Abdelhamid Sabiri,Morocco,MF,0,0,0,0,Sampdoria,Unknown,Unknown
+Zakaria Aboukhlal,Morocco,FW,0,0,0,0,Toulouse,Unknown,Unknown
+Soufiane Boufal,Morocco,FW,0,0,0,0,Angers,Unknown,Unknown
+Ilias Chair,Morocco,FW,0,0,0,0,Queens Park Rangers,Unknown,Unknown
+Walid Cheddira,Morocco,FW,0,0,0,0,Bari,Unknown,Unknown
+Youssef En-Nesyri,Morocco,FW,0,0,0,0,Sevilla,Unknown,Unknown
+Abde Ezzalzouli,Morocco,FW,0,0,0,0,Osasuna,Unknown,Unknown
+Abderrazak Hamdallah,Morocco,FW,0,0,0,0,Al Ittihad,Unknown,Unknown
+Anass Zaroury,Morocco,FW,0,0,0,0,Burnley,Unknown,Unknown
+Hakim Ziyech,Morocco,FW,0,0,0,0,Chelsea,Unknown,Unknown
+Dominik Livakovic,Croatia,GK,0,0,0,0,Dinamo Zagreb,Unknown,Unknown
+Ivica Ivusic,Croatia,GK,0,0,0,0,Osijek,Unknown,Unknown
+Ivo Grbic,Croatia,GK,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Domagoj Vida,Croatia,DF,0,0,0,0,AEK Athens,Unknown,Unknown
+Dejan Lovren,Croatia,DF,0,0,0,0,Zenit Saint Petersburg,Unknown,Unknown
+Borna Barisic,Croatia,DF,0,0,0,0,Rangers,Unknown,Unknown
+Josip Juranovic,Croatia,DF,0,0,0,0,Celtic,Unknown,Unknown
+Josko Gvardiol,Croatia,DF,0,0,0,0,RB Leipzig,Unknown,Unknown
+Borna Sosa,Croatia,DF,0,0,0,0,Stuttgart,Unknown,Unknown
+Josip Stanisic,Croatia,DF,0,0,0,0,Bayern Munich,Unknown,Unknown
+Martin Erlic,Croatia,DF,0,0,0,0,Sassuolo,Unknown,Unknown
+Josip Sutalo,Croatia,DF,0,0,0,0,Dinamo Zagreb,Unknown,Unknown
+Luka Modric,Croatia,MF,0,0,0,0,Real Madrid,Unknown,Unknown
+Mateo Kovacic,Croatia,MF,0,0,0,0,Chelsea,Unknown,Unknown
+Marcelo Brozovic,Croatia,MF,0,0,0,0,Inter Milan,Unknown,Unknown
+Mario Pasalaic,Croatia,MF,0,0,0,0,Atalanta,Unknown,Unknown
+Nikola Vlasic,Croatia,MF,0,0,0,0,Torino,Unknown,Unknown
+Lovro Majer,Croatia,MF,0,0,0,0,Rennes,Unknown,Unknown
+Kristijan Jakic,Croatia,MF,0,0,0,0,Eintracht Frankfurt,Unknown,Unknown
+Luka Sucic,Croatia,MF,0,0,0,0,Red Bull Salzburg,Unknown,Unknown
+Ivan Perisic,Croatia,FW,0,0,0,0,Tottenham,Unknown,Unknown
+Andrej Kramaric,Croatia,FW,0,0,0,0,1899 Hoffenheim,Unknown,Unknown
+Bruno Petkovic,Croatia,FW,0,0,0,0,Dinamo Zagreb,Unknown,Unknown
+Mislav Orsic,Croatia,FW,0,0,0,0,Dinamo Zagreb,Unknown,Unknown
+Ante Budimir,Croatia,FW,0,0,0,0,Osasuna,Unknown,Unknown
+Marko Livaja,Croatia,FW,0,0,0,0,Hajduk Split,Unknown,Unknown
+Alisson,Brazil,GK,0,0,0,0,Liverpool,Unknown,Unknown
+Ederson,Brazil,GK,0,0,0,0,Man City,Unknown,Unknown
+Weverton,Brazil,GK,0,0,0,0,Palmeiras,Unknown,Unknown
+Dani Alves,Brazil,DF,0,0,0,0,Pumas,Unknown,Unknown
+Danilo,Brazil,DF,0,0,0,0,Juventus,Unknown,Unknown
+Alex Sandro,Brazil,DF,0,0,0,0,Juventus,Unknown,Unknown
+Alex Telles,Brazil,DF,0,0,0,0,Seville,Unknown,Unknown
+Bremer,Brazil,DF,0,0,0,0,Juventus,Unknown,Unknown
+Eder Militao,Brazil,DF,0,0,0,0,Real Madrid,Unknown,Unknown
+Marquinhos,Brazil,DF,0,0,0,0,PSG,Unknown,Unknown
+Thiago Silva,Brazil,DF,0,0,0,0,Chelsea,Unknown,Unknown
+Bruno Guimaraes,Brazil,MF,0,0,0,0,Newcastle,Unknown,Unknown
+Casemiro,Brazil,MF,0,0,0,0,Manchester United,Unknown,Unknown
+Everton Ribeiro,Brazil,MF,0,0,0,0,Flamengo,Unknown,Unknown
+Fabinho,Brazil,MF,0,0,0,0,Liverpool,Unknown,Unknown
+Fred,Brazil,MF,0,0,0,0,Manchester United,Unknown,Unknown
+Lucas Paqueta,Brazil,MF,0,0,0,0,West Ham,Unknown,Unknown
+Antony,Brazil,FW,0,0,0,0,Manchester United,Unknown,Unknown
+Gabriel Jesus,Brazil,FW,0,0,0,0,Arsenal,Unknown,Unknown
+Gabriel Martinelli,Brazil,FW,0,0,0,0,Arsenal,Unknown,Unknown
+Neymar,Brazil,FW,0,0,0,0,PSG,Unknown,Unknown
+Pedro,Brazil,FW,0,0,0,0,Flamengo,Unknown,Unknown
+Raphinha,Brazil,FW,0,0,0,0,Barcelona,Unknown,Unknown
+Richarlison,Brazil,FW,0,0,0,0,Tottenham,Unknown,Unknown
+Rodrygo,Brazil,FW,0,0,0,0,Real Madrid,Unknown,Unknown
+Vinicius Jr,Brazil,FW,0,0,0,0,Real Madrid,Unknown,Unknown
+Marko Dmitrovic,Serbia,GK,0,0,0,0,Sevilla,Unknown,Unknown
+Predrag Rajkovic,Serbia,GK,0,0,0,0,Mallorca,Unknown,Unknown
+Vanja Milinkovic-Savic,Serbia,GK,0,0,0,0,Torino,Unknown,Unknown
+Stefan Mitrovic,Serbia,DF,0,0,0,0,Getafe,Unknown,Unknown
+Nikola Milenkovic,Serbia,DF,0,0,0,0,Fiorentina,Unknown,Unknown
+Strahinja Pavlovic,Serbia,DF,0,0,0,0,Red Bull Salzburg,Unknown,Unknown
+Milos Veljkovic,Serbia,DF,0,0,0,0,Werder Bremen,Unknown,Unknown
+Filip Mladenovic,Serbia,DF,0,0,0,0,Legia Warsaw,Unknown,Unknown
+Strahinja Erakovic,Serbia,DF,0,0,0,0,Red Star Belgrade,Unknown,Unknown
+Srdjan Babic,Serbia,DF,0,0,0,0,Almeria,Unknown,Unknown
+Nemanja Gudelj,Serbia,MF,0,0,0,0,Sevilla,Unknown,Unknown
+Sergej Milinkovic-Savic,Serbia,MF,0,0,0,0,Lazio,Unknown,Unknown
+Sasa Lukic,Serbia,MF,0,0,0,0,Torino,Unknown,Unknown
+Marko Grujic,Serbia,MF,0,0,0,0,Porto,Unknown,Unknown
+Filip Kostic,Serbia,MF,0,0,0,0,Juventus,Unknown,Unknown
+Uros Racic,Serbia,MF,0,0,0,0,Braga,Unknown,Unknown
+on loan from Valencia),Serbia,MF,0,0,0,0,Braga,Unknown,Unknown
+Nemanja Maksimovic,Serbia,MF,0,0,0,0,Getafe,Unknown,Unknown
+Ivan Ilic,Serbia,MF,0,0,0,0,Hellas Verona,Unknown,Unknown
+Andrija Zivkovic,Serbia,MF,0,0,0,0,PAOK,Unknown,Unknown
+Darko Lazovic,Serbia,MF,0,0,0,0,Hellas Verona,Unknown,Unknown
+Dusan Tadic,Serbia,FW,0,0,0,0,Ajax,Unknown,Unknown
+Aleksandar Mitrovic,Serbia,FW,0,0,0,0,Fulham,Unknown,Unknown
+Dusan Vlahovic,Serbia,FW,0,0,0,0,Juventus,Unknown,Unknown
+Filip Duricic,Serbia,FW,0,0,0,0,Sampdoria,Unknown,Unknown
+Luka Jovic,Serbia,FW,0,0,0,0,Fiortentina,Unknown,Unknown
+Nemanja Radonjic,Serbia,FW,0,0,0,0,Torino,Unknown,Unknown
+Gregor Kobel,Switzerland,GK,0,0,0,0,Borussia Dortmund,Unknown,Unknown
+Philipp Kohn,Switzerland,GK,0,0,0,0,RB Salzburg,Unknown,Unknown
+Jonas Omlin,Switzerland,GK,0,0,0,0,Montpellier,Unknown,Unknown
+Yann Sommer,Switzerland,GK,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+Manuel Akanji,Switzerland,DF,0,0,0,0,Manchester City,Unknown,Unknown
+Eray Comert,Switzerland,DF,0,0,0,0,Valencia,Unknown,Unknown
+Nico Elvedi,Switzerland,DF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
+Ricardo Rodriguez,Switzerland,DF,0,0,0,0,Torino,Unknown,Unknown
+Fabian Schar,Switzerland,DF,0,0,0,0,Newcastle United,Unknown,Unknown
+Silvan Widmer,Switzerland,DF,0,0,0,0,Mainz,Unknown,Unknown
+Granit Xhaka,Switzerland,MF,0,0,0,0,Arsenal,Unknown,Unknown
+Edimilson Fernandes,Switzerland,MF,0,0,0,0,Mainz,Unknown,Unknown
+Fabian Frei,Switzerland,MF,0,0,0,0,Basel,Unknown,Unknown
+Remo Freuler,Switzerland,MF,0,0,0,0,Nottingham Forest,Unknown,Unknown
+Ardon Jashari,Switzerland,MF,0,0,0,0,Luzern,Unknown,Unknown
+Fabian Rieder,Switzerland,MF,0,0,0,0,Young Boys,Unknown,Unknown
+Xherdan Shaqiri,Switzerland,MF,0,0,0,0,Chicago Fire,Unknown,Unknown
+Djibril Sow,Switzerland,MF,0,0,0,0,Eintracht Frankfurt,Unknown,Unknown
+Renato Steffen,Switzerland,MF,0,0,0,0,Lugano,Unknown,Unknown
+Denis Zakaria,Switzerland,MF,0,0,0,0,Chelsea,Unknown,Unknown
+Michel Aebischer,Switzerland,MF,0,0,0,0,Bologna,Unknown,Unknown
+Breel Embolo,Switzerland,FW,0,0,0,0,Monaco,Unknown,Unknown
+Christian Fassnacht,Switzerland,FW,0,0,0,0,Young Boys,Unknown,Unknown
+Noah Okafor,Switzerland,FW,0,0,0,0,RB Salzburg,Unknown,Unknown
+Haris Seferovic,Switzerland,FW,0,0,0,0,Galatasaray,Unknown,Unknown
+Ruben Vargas,Switzerland,FW,0,0,0,0,Augsburg,Unknown,Unknown
+Devis Epassy,Cameroon,GK,0,0,0,0,Abha Club,Unknown,Unknown
+Simon Ngapandouetnbu,Cameroon,GK,0,0,0,0,Marseille,Unknown,Unknown
+Andre Onana,Cameroon,GK,0,0,0,0,Inter Milan,Unknown,Unknown
+Jean-Charles Castelletto,Cameroon,DF,0,0,0,0,Nantes,Unknown,Unknown
+Enzo Ebosse,Cameroon,DF,0,0,0,0,Udinese,Unknown,Unknown
+Collins Fai,Cameroon,DF,0,0,0,0,Al Tai,Unknown,Unknown
+Olivier Mbaizo,Cameroon,DF,0,0,0,0,Philadelphia Union,Unknown,Unknown
+Nicolas Nkoulou,Cameroon,DF,0,0,0,0,Aris Salonika,Unknown,Unknown
+Tolo Nouhou,Cameroon,DF,0,0,0,0,Seattle Sounders,Unknown,Unknown
+Christopher Wooh,Cameroon,DF,0,0,0,0,Stade Rennes,Unknown,Unknown
+Martin Hongla,Cameroon,MF,0,0,0,0,Verona,Unknown,Unknown
+Pierre Kunde,Cameroon,MF,0,0,0,0,Olympiakos,Unknown,Unknown
+Olivier Ntcham,Cameroon,MF,0,0,0,0,Swansea City,Unknown,Unknown
+Gael Ondoua,Cameroon,MF,0,0,0,0,Hannover 96,Unknown,Unknown
+Samuel Oum Gouet,Cameroon,MF,0,0,0,0,Mechelen,Unknown,Unknown
+Andre-Frank Zambo Anguissa,Cameroon,MF,0,0,0,0,Napoli,Unknown,Unknown
+Vincent Aboubakar,Cameroon,FW,0,0,0,0,Al Nassr,Unknown,Unknown
+Christian Bassogog,Cameroon,FW,0,0,0,0,Shanghai Shenhua,Unknown,Unknown
+Eric-Maxim Choupo Moting,Cameroon,FW,0,0,0,0,Bayern Munich,Unknown,Unknown
+Souaibou Marou,Cameroon,FW,0,0,0,0,Coton Sport,Unknown,Unknown
+Bryan Mbeumo,Cameroon,FW,0,0,0,0,Brentford,Unknown,Unknown
+Nicolas Moumi Ngamaleu,Cameroon,FW,0,0,0,0,Young Boys Berne,Unknown,Unknown
+Jerome Ngom,Cameroon,FW,0,0,0,0,Colombe Dja,Unknown,Unknown
+Georges-Kevin Nkoudou,Cameroon,FW,0,0,0,0,Besiktas,Unknown,Unknown
+Jean-Pierre Nsame,Cameroon,FW,0,0,0,0,Young Boys Berne,Unknown,Unknown
+Karl Toko Ekambi,Cameroon,FW,0,0,0,0,Lyon,Unknown,Unknown
+Diogo Costa,Portugal,GK,0,0,0,0,Porto,Unknown,Unknown
+Jose Sa,Portugal,GK,0,0,0,0,Wolves,Unknown,Unknown
+Rui Patricio,Portugal,GK,0,0,0,0,Roma,Unknown,Unknown
+Diogo Dalot,Portugal,DF,0,0,0,0,Manchester United,Unknown,Unknown
+Joao Cancelo,Portugal,DF,0,0,0,0,Manchester City,Unknown,Unknown
+Danilo Pereira,Portugal,DF,0,0,0,0,PSG,Unknown,Unknown
+Pepe,Portugal,DF,0,0,0,0,Porto,Unknown,Unknown
+Ruben Dias,Portugal,DF,0,0,0,0,Manchester City,Unknown,Unknown
+Antonio Silva,Portugal,DF,0,0,0,0,Benfica,Unknown,Unknown
+Nuno Mendes,Portugal,DF,0,0,0,0,PSG,Unknown,Unknown
+Raphael Guerreiro,Portugal,DF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
+Joao Palhinha,Portugal,MF,0,0,0,0,Fulham,Unknown,Unknown
+Ruben Neves,Portugal,MF,0,0,0,0,Wolves,Unknown,Unknown
+Bernardo Silva,Portugal,MF,0,0,0,0,Manchester City,Unknown,Unknown
+Bruno Fernandes,Portugal,MF,0,0,0,0,Manchester United,Unknown,Unknown
+Joao Mario,Portugal,MF,0,0,0,0,Benfica,Unknown,Unknown
+Matheus Nunes,Portugal,MF,0,0,0,0,Wolves,Unknown,Unknown
+Otavio Monteiro,Portugal,MF,0,0,0,0,Porto,Unknown,Unknown
+Vitinha,Portugal,MF,0,0,0,0,PSG,Unknown,Unknown
+William Carvalho,Portugal,MF,0,0,0,0,Real Betis,Unknown,Unknown
+Andre Silva,Portugal,FW,0,0,0,0,RB Leipzig,Unknown,Unknown
+Cristiano Ronaldo,Portugal,FW,0,0,0,0,Manchester United,Unknown,Unknown
+Goncalo Ramos,Portugal,FW,0,0,0,0,Benfica,Unknown,Unknown
+Joao Felix,Portugal,FW,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Rafael Leao,Portugal,FW,0,0,0,0,AC Milan,Unknown,Unknown
+Ricardo Horta,Portugal,FW,0,0,0,0,Braga,Unknown,Unknown
+Manaf Nurudeen,Ghana,GK,0,0,0,0,Eupen,Unknown,Unknown
+Danlad Ibrahim,Ghana,GK,0,0,0,0,Asante Kotoko Lawrence Ati Zigi,Unknown,Unknown
+Denis Odoi,Ghana,DF,0,0,0,0,Fulham,Unknown,Unknown
+Tariq Lamptey,Ghana,DF,0,0,0,0,Brighton,Unknown,Unknown
+Alidu Seidu,Ghana,DF,0,0,0,0,Clermont,Unknown,Unknown
+Daniel Amartey,Ghana,DF,0,0,0,0,Leicester,Unknown,Unknown
+Joseph Aidoo,Ghana,DF,0,0,0,0,Celta Vigo,Unknown,Unknown
+Alexander Djiku,Ghana,DF,0,0,0,0,Strasbourg,Unknown,Unknown
+Mohammed Salisu,Ghana,DF,0,0,0,0,Southampton Abdul-Rahman Baba,Unknown,Unknown
+Andre Ayew,Ghana,MF,0,0,0,0,Al-Sadd Thomas Partey,Unknown,Unknown
+Salis Abdul Samed,Ghana,MF,0,0,0,0,Lens,Unknown,Unknown
+Mohammed Kudus,Ghana,MF,0,0,0,0,Ajax,Unknown,Unknown
+Daniel Kofi Kyereh,Ghana,MF,0,0,0,0,Freiburg,Unknown,Unknown
+Daniel Barnieh Afriyie,Ghana,FW,0,0,0,0,Hearts of Oak,Unknown,Unknown
+Kamal Sowah,Ghana,FW,0,0,0,0,Club Brugge,Unknown,Unknown
+Issahaku Abdul Fatawu,Ghana,FW,0,0,0,0,Sporting Lisbon,Unknown,Unknown
+Osman Bukari,Ghana,FW,0,0,0,0,Red Star Belgrade,Unknown,Unknown
+Inaki Williams,Ghana,FW,0,0,0,0,Athletic Bilbao,Unknown,Unknown
+Antoine Semenyo,Ghana,FW,0,0,0,0,Bristol City,Unknown,Unknown
+Jordan Ayew,Ghana,FW,0,0,0,0,Crystal Palace Kamaldeen Sulemana,Unknown,Unknown
+Fernando Muslera,Uruguay,GK,0,0,0,0,Galatasaray,Unknown,Unknown
+Sergio Rochet,Uruguay,GK,0,0,0,0,Nacional,Unknown,Unknown
+Sebastian Sosa,Uruguay,GK,0,0,0,0,Independiente,Unknown,Unknown
+Ronald Araujo,Uruguay,DF,0,0,0,0,Barcelona,Unknown,Unknown
+Martin Caceres,Uruguay,DF,0,0,0,0,LA Galaxy,Unknown,Unknown
+Sebastian Coates,Uruguay,DF,0,0,0,0,Sporting Lisbon,Unknown,Unknown
+Jose Gimenez,Uruguay,DF,0,0,0,0,Atletico Madrid,Unknown,Unknown
+Diego Godin,Uruguay,DF,0,0,0,0,Velez Sarsfield,Unknown,Unknown
+Mathias Olivera,Uruguay,DF,0,0,0,0,Napoli,Unknown,Unknown
+Jose Rodriguez,Uruguay,DF,0,0,0,0,Nacional,Unknown,Unknown
+Guillermo Varela,Uruguay,DF,0,0,0,0,Flamengo,Unknown,Unknown
+Matias Vina,Uruguay,DF,0,0,0,0,Roma,Unknown,Unknown
+Rodrigo Bentancur,Uruguay,MF,0,0,0,0,Tottenham,Unknown,Unknown
+Nicolas De Cruz,Uruguay,MF,0,0,0,0,River Plate,Unknown,Unknown
+Facundo Pellistri,Uruguay,MF,0,0,0,0,Man Utd,Unknown,Unknown
+Lucas Torreira,Uruguay,MF,0,0,0,0,Galatasaray,Unknown,Unknown
+Manuel Ugarte,Uruguay,MF,0,0,0,0,Sporting Lisbon,Unknown,Unknown
+Federico Valverde,Uruguay,MF,0,0,0,0,Real Madrid,Unknown,Unknown
+Matias Vecino,Uruguay,MF,0,0,0,0,Lazio,Unknown,Unknown
+Luis Suarez,Uruguay,FW,0,0,0,0,Nacional,Unknown,Unknown
+Darwin Nunez,Uruguay,FW,0,0,0,0,Liverpool,Unknown,Unknown
+Maxi Gomez,Uruguay,FW,0,0,0,0,Trabzonspor,Unknown,Unknown
+Edinson Cavani,Uruguay,FW,0,0,0,0,Valencia,Unknown,Unknown
+Agustin Canobbio,Uruguay,FW,0,0,0,0,Athletico Paranense,Unknown,Unknown
+Giorgian De Arrascaeta,Uruguay,FW,0,0,0,0,Flamengo,Unknown,Unknown
+Facundo Torres,Uruguay,FW,0,0,0,0,Orlando City,Unknown,Unknown
+Kim Seung-gyu,South Korea,GK,0,0,0,0,Al Shabab,Unknown,Unknown
+Jo Hyeon-woo,South Korea,GK,0,0,0,0,Ulsan Hyundai,Unknown,Unknown
+Song Bum-keun,South Korea,GK,0,0,0,0,Jeonbuk Motors,Unknown,Unknown
+Kim Min-jae,South Korea,DF,0,0,0,0,Napoli,Unknown,Unknown
+Kim Jin-su,South Korea,DF,0,0,0,0,Jeonbuk Motors,Unknown,Unknown
+Hong Chul,South Korea,DF,0,0,0,0,Daegu FC,Unknown,Unknown
+Kim Moon-hwan,South Korea,DF,0,0,0,0,Jeonbuk Motors,Unknown,Unknown
+Yoon Jong-gyu,South Korea,DF,0,0,0,0,FC Seoul,Unknown,Unknown
+Kim Young-gwon,South Korea,DF,0,0,0,0,Ulsan Hyundai,Unknown,Unknown
+Kim Tae-hwan,South Korea,DF,0,0,0,0,Ulsan Hyundai,Unknown,Unknown
+Kwon Kyung-won,South Korea,DF,0,0,0,0,Gamba Osaka,Unknown,Unknown
+Cho Yu-min,South Korea,DF,0,0,0,0,Daejon Citizen,Unknown,Unknown
+Jung Woo-young,South Korea,MF,0,0,0,0,Al Sadd,Unknown,Unknown
+Na Sang-ho,South Korea,MF,0,0,0,0,FC Seoul,Unknown,Unknown
+Paik Seung-ho,South Korea,MF,0,0,0,0,Jeonbuk Motors,Unknown,Unknown
+Son Jun-ho,South Korea,MF,0,0,0,0,Shandong Taishan,Unknown,Unknown
+Song Min-kyu,South Korea,MF,0,0,0,0,Jeonbuk Motors,Unknown,Unknown
+Kwon Chang-hoon,South Korea,MF,0,0,0,0,Gimcheon Sangmu,Unknown,Unknown
+Lee Jae-sung,South Korea,MF,0,0,0,0,Mainz,Unknown,Unknown
+Hwang Hee-chan,South Korea,MF,0,0,0,0,Wolverhampton Wanderers,Unknown,Unknown
+Hwang In-beom,South Korea,MF,0,0,0,0,Olympiacos,Unknown,Unknown
+Jeong Woo-yeong,South Korea,MF,0,0,0,0,Freiburg,Unknown,Unknown
+Lee Kang-in,South Korea,MF,0,0,0,0,Real Mallorca,Unknown,Unknown
+Hwang Ui-jo,South Korea,FW,0,0,0,0,Olympiacos,Unknown,Unknown
+Cho Gue-sung,South Korea,FW,0,0,0,0,Jeonbuk Motors,Unknown,Unknown
+Son Heung-min,South Korea,FW,0,0,0,0,Tottenham Hotspur,Unknown,Unknown
