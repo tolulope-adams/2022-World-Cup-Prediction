@@ -1,4 +1,4 @@
-Name,Country,Position,Goals,Assists,Tackles,Saves,Club,League,League_Website
+name,country,position,goals,assists,tackles,saves,club,league,league_website
 Saad Al Sheeb,Qatar,GK,0,0,0,0,Al-Sadd,Unknown,Unknown
 Meshaal Barsham,Qatar,GK,0,0,0,0,Al-Sadd,Unknown,Unknown
 Yousuf Hassan,Qatar,GK,0,0,0,0,Al-Gharafa,Unknown,Unknown
@@ -111,8 +111,7 @@ Benjamin White,England,DF,0,0,0,0,Arsenal,Unknown,Unknown
 Harry Maguire,England,DF,0,0,0,0,Man Utd,Unknown,Unknown
 John Stones,England,DF,0,0,0,0,Man City,Unknown,Unknown
 Eric Dier,England,DF,0,0,0,0,Tottenham,Unknown,Unknown
-Conor Coady,England,DF,0,0,0,0,Everton,Unknown,Unknown
-on loan from Wolves),England,DF,0,0,0,0,Everton,Unknown,Unknown
+Conor Coady,England,DF,0,0,0,0,"Everton, on loan from Wolves",Unknown,Unknown
 Luke Shaw,England,DF,0,0,0,0,Man Utd,Unknown,Unknown
 Declan Rice,England,MF,0,0,0,0,West Ham,Unknown,Unknown
 Jude Bellingham,England,MF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
@@ -181,26 +180,66 @@ Tim Weah,United States,FW,0,0,0,0,Lille,Unknown,Unknown
 Haji Wright,United States,FW,0,0,0,0,Antalayaspor,Unknown,Unknown
 Wayne Hennessey,Wales,GK,0,0,0,0,Nottingham Forest,Unknown,Unknown
 Danny Ward,Wales,GK,0,0,0,0,Leicester,Unknown,Unknown
-Adam Davies,Wales,GK,0,0,0,0,Sheffield UnitedDefenders,Unknown,Unknown
-Franco Armani,Wales,DF,0,0,0,0,River Plate,Unknown,Unknown
-Emiliano Martinez,Wales,DF,0,0,0,0,Aston Villa,Unknown,Unknown
-Geronimo Rulli,Wales,DF,0,0,0,0,Villarreal,Unknown,Unknown
-Marcos Acuna,Wales,MF,0,0,0,0,Sevilla,Unknown,Unknown
-Juan Foyth,Wales,MF,0,0,0,0,Villarreal,Unknown,Unknown
-Lisandro Martinez,Wales,MF,0,0,0,0,Manchester United,Unknown,Unknown
-Nahuel Molina,Wales,MF,0,0,0,0,Atletico Madrid,Unknown,Unknown
-Gonzalo Montiel,Wales,MF,0,0,0,0,Sevilla,Unknown,Unknown
-Nicolas Otamendi,Wales,MF,0,0,0,0,Benfica,Unknown,Unknown
-German Pezzella,Wales,MF,0,0,0,0,Real Betis,Unknown,Unknown
-Cristian Romero,Wales,MF,0,0,0,0,Tottenham,Unknown,Unknown
-Nicolas Tagliafico,Wales,MF,0,0,0,0,Lyon,Unknown,Unknown
-Rodrigo De Paul,Wales,FW,0,0,0,0,Atletico Madrid,Unknown,Unknown
-Enzo Fernandez,Wales,FW,0,0,0,0,Benfica,Unknown,Unknown
-Alejandro Gomez,Wales,FW,0,0,0,0,Sevilla,Unknown,Unknown
-Alexis Mac Allister,Wales,FW,0,0,0,0,Brighton,Unknown,Unknown
-Exequiel Palacios,Wales,FW,0,0,0,0,Bayer Leverkusen,Unknown,Unknown
-Leandro Paredes,Wales,FW,0,0,0,0,Juventus,Unknown,Unknown
-Guido Rodriquez,Wales,FW,0,0,0,0,Real Betis,Unknown,Unknown
+Adam Davies,Wales,GK,0,0,0,0,Sheffield United.Defenders: Ben Davies,Unknown,Unknown
+Ben Cabango,Wales,GK,0,0,0,0,Swansea,Unknown,Unknown
+Tom Lockyer,Wales,GK,0,0,0,0,Luton,Unknown,Unknown
+Joe Rodon,Wales,GK,0,0,0,0,"Rennes, on loan from Tottenham",Unknown,Unknown
+Chris Mepham,Wales,GK,0,0,0,0,Bournemouth,Unknown,Unknown
+Ethan Ampadu,Wales,GK,0,0,0,0,"Spezia, on loan from Chelsea",Unknown,Unknown
+Chris Gunter,Wales,GK,0,0,0,0,AFC Wimbledon,Unknown,Unknown
+Neco Williams,Wales,GK,0,0,0,0,Nottingham Forest,Unknown,Unknown
+Connor Roberts,Wales,GK,0,0,0,0,Burnley.Midfielders: Sorba Thomas,Unknown,Unknown
+Joe Allen,Wales,GK,0,0,0,0,Swansea,Unknown,Unknown
+Matthew Smith,Wales,GK,0,0,0,0,MK Dons,Unknown,Unknown
+Dylan Levitt,Wales,GK,0,0,0,0,Dundee United,Unknown,Unknown
+Harry Wilson,Wales,GK,0,0,0,0,Fulham,Unknown,Unknown
+Joe Morrell,Wales,GK,0,0,0,0,Portsmouth,Unknown,Unknown
+Jonny Williams,Wales,GK,0,0,0,0,Swindon,Unknown,Unknown
+Aaron Ramsey,Wales,GK,0,0,0,0,Nice,Unknown,Unknown
+Rubin Colwill,Wales,GK,0,0,0,0,Cardiff.Forwards: Gareth Bale,Unknown,Unknown
+Kieffer Moore,Wales,GK,0,0,0,0,Bournemouth,Unknown,Unknown
+Mark Harris,Wales,GK,0,0,0,0,Cardiff,Unknown,Unknown
+Brennan Johnson,Wales,GK,0,0,0,0,Nottingham Forest,Unknown,Unknown
+Dan James,Wales,GK,0,0,0,0,"Fulham, on loan from Leeds",Unknown,Unknown
+Ben Davies,Wales,DF,0,0,0,0,Tottenham,Unknown,Unknown
+Ben Cabango,Wales,DF,0,0,0,0,Swansea,Unknown,Unknown
+Tom Lockyer,Wales,DF,0,0,0,0,Luton,Unknown,Unknown
+Joe Rodon,Wales,DF,0,0,0,0,"Rennes, on loan from Tottenham",Unknown,Unknown
+Chris Mepham,Wales,DF,0,0,0,0,Bournemouth,Unknown,Unknown
+Ethan Ampadu,Wales,DF,0,0,0,0,"Spezia, on loan from Chelsea",Unknown,Unknown
+Chris Gunter,Wales,DF,0,0,0,0,AFC Wimbledon,Unknown,Unknown
+Neco Williams,Wales,DF,0,0,0,0,Nottingham Forest,Unknown,Unknown
+Connor Roberts,Wales,DF,0,0,0,0,Burnley.Midfielders: Sorba Thomas,Unknown,Unknown
+Joe Allen,Wales,DF,0,0,0,0,Swansea,Unknown,Unknown
+Matthew Smith,Wales,DF,0,0,0,0,MK Dons,Unknown,Unknown
+Dylan Levitt,Wales,DF,0,0,0,0,Dundee United,Unknown,Unknown
+Harry Wilson,Wales,DF,0,0,0,0,Fulham,Unknown,Unknown
+Joe Morrell,Wales,DF,0,0,0,0,Portsmouth,Unknown,Unknown
+Jonny Williams,Wales,DF,0,0,0,0,Swindon,Unknown,Unknown
+Aaron Ramsey,Wales,DF,0,0,0,0,Nice,Unknown,Unknown
+Rubin Colwill,Wales,DF,0,0,0,0,Cardiff.Forwards: Gareth Bale,Unknown,Unknown
+Kieffer Moore,Wales,DF,0,0,0,0,Bournemouth,Unknown,Unknown
+Mark Harris,Wales,DF,0,0,0,0,Cardiff,Unknown,Unknown
+Brennan Johnson,Wales,DF,0,0,0,0,Nottingham Forest,Unknown,Unknown
+Dan James,Wales,DF,0,0,0,0,"Fulham, on loan from Leeds",Unknown,Unknown
+Sorba Thomas,Wales,MF,0,0,0,0,Huddersfield,Unknown,Unknown
+Joe Allen,Wales,MF,0,0,0,0,Swansea,Unknown,Unknown
+Matthew Smith,Wales,MF,0,0,0,0,MK Dons,Unknown,Unknown
+Dylan Levitt,Wales,MF,0,0,0,0,Dundee United,Unknown,Unknown
+Harry Wilson,Wales,MF,0,0,0,0,Fulham,Unknown,Unknown
+Joe Morrell,Wales,MF,0,0,0,0,Portsmouth,Unknown,Unknown
+Jonny Williams,Wales,MF,0,0,0,0,Swindon,Unknown,Unknown
+Aaron Ramsey,Wales,MF,0,0,0,0,Nice,Unknown,Unknown
+Rubin Colwill,Wales,MF,0,0,0,0,Cardiff.Forwards: Gareth Bale,Unknown,Unknown
+Kieffer Moore,Wales,MF,0,0,0,0,Bournemouth,Unknown,Unknown
+Mark Harris,Wales,MF,0,0,0,0,Cardiff,Unknown,Unknown
+Brennan Johnson,Wales,MF,0,0,0,0,Nottingham Forest,Unknown,Unknown
+Dan James,Wales,MF,0,0,0,0,"Fulham, on loan from Leeds",Unknown,Unknown
+Gareth Bale,Wales,FW,0,0,0,0,Los Angeles FC,Unknown,Unknown
+Kieffer Moore,Wales,FW,0,0,0,0,Bournemouth,Unknown,Unknown
+Mark Harris,Wales,FW,0,0,0,0,Cardiff,Unknown,Unknown
+Brennan Johnson,Wales,FW,0,0,0,0,Nottingham Forest,Unknown,Unknown
+Dan James,Wales,FW,0,0,0,0,"Fulham, on loan from Leeds",Unknown,Unknown
 Franco Armani,Argentina,GK,0,0,0,0,River Plate,Unknown,Unknown
 Emiliano Martinez,Argentina,GK,0,0,0,0,Aston Villa,Unknown,Unknown
 Geronimo Rulli,Argentina,GK,0,0,0,0,Villarreal,Unknown,Unknown
@@ -466,23 +505,16 @@ Niklas Suele,Germany,DF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
 Nico Schlotterbeck,Germany,DF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
 Thilo Kehrer,Germany,DF,0,0,0,0,West Ham United,Unknown,Unknown
 David Raum,Germany,DF,0,0,0,0,RB Leipzig,Unknown,Unknown
-Lukas Klostermann,Germany,DF,0,0,0,0,RB Leipzig,Unknown,Unknown
-Armel Bella Kotchap,Germany,DF,0,0,0,0,Southampton,Unknown,Unknown
+"Lukas Klostermann, Armel Bella Kotchap",Germany,DF,0,0,0,0,Southampton,Unknown,Unknown
 Christian Guenter,Germany,DF,0,0,0,0,Freiburg,Unknown,Unknown
 Ilkay Gundogan,Germany,MF,0,0,0,0,Manchester City,Unknown,Unknown
 Jonas Hofmann,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
-Leon Goretzka,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
-Serge Gnabry,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
-Leroy Sane,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
-Jamal Musiala,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
-Joshua Kimmich,Germany,MF,0,0,0,0,Borussia Monchengladbach,Unknown,Unknown
-Thomas Mueller,Germany,MF,0,0,0,0,all Bayern Munich,Unknown,Unknown
+"Leon Goretzka, Serge Gnabry, Leroy Sane, Jamal Musiala, Joshua Kimmich, Thomas Mueller",Germany,MF,0,0,0,0,all Bayern Munich,Unknown,Unknown
 Julian Brandt,Germany,MF,0,0,0,0,Borussia Dortmund,Unknown,Unknown
 Mario Goetze,Germany,MF,0,0,0,0,Eintracht Frankfurt,Unknown,Unknown
 Kai Havertz,Germany,FW,0,0,0,0,Chelsea,Unknown,Unknown
 Youssoufa Moukoko,Germany,FW,0,0,0,0,Borussia Dortmund,Unknown,Unknown
 Niklas Fuellkrug,Germany,FW,0,0,0,0,Werder Bremen,Unknown,Unknown
-Karim Adeyemi Borussia Dortmund),Germany,FW,0,0,0,0,Werder Bremen,Unknown,Unknown
 Eiji Kawashima,Japan,GK,0,0,0,0,Strasbourg,Unknown,Unknown
 Daniel Schmidt,Japan,GK,0,0,0,0,Sint Truiden,Unknown,Unknown
 Shuichi Gonda,Japan,GK,0,0,0,0,Shimizu S-Pulse,Unknown,Unknown
@@ -552,7 +584,7 @@ Liam Fraser,Canada,MF,0,0,0,0,Deinze,Unknown,Unknown
 Samuel Piette,Canada,MF,0,0,0,0,CF Montreal,Unknown,Unknown
 Mark-Anthony Kaye,Canada,MF,0,0,0,0,Toronto FC,Unknown,Unknown
 Ismael Kone,Canada,MF,0,0,0,0,CF Montreal,Unknown,Unknown
-David Wotherspoon,Canada,MF,0,0,0,0,St Johnstone FC,Unknown,Unknown
+David Wotherspoon,Canada,MF,0,0,0,0,St. Johnstone FC,Unknown,Unknown
 Alphonso Davies,Canada,FW,0,0,0,0,Bayern Munich,Unknown,Unknown
 Jonathan David,Canada,FW,0,0,0,0,Lille,Unknown,Unknown
 Cyle Larin,Canada,FW,0,0,0,0,Club Brugge,Unknown,Unknown
@@ -654,8 +686,7 @@ Sergej Milinkovic-Savic,Serbia,MF,0,0,0,0,Lazio,Unknown,Unknown
 Sasa Lukic,Serbia,MF,0,0,0,0,Torino,Unknown,Unknown
 Marko Grujic,Serbia,MF,0,0,0,0,Porto,Unknown,Unknown
 Filip Kostic,Serbia,MF,0,0,0,0,Juventus,Unknown,Unknown
-Uros Racic,Serbia,MF,0,0,0,0,Braga,Unknown,Unknown
-on loan from Valencia),Serbia,MF,0,0,0,0,Braga,Unknown,Unknown
+Uros Racic,Serbia,MF,0,0,0,0,"Braga, on loan from Valencia",Unknown,Unknown
 Nemanja Maksimovic,Serbia,MF,0,0,0,0,Getafe,Unknown,Unknown
 Ivan Ilic,Serbia,MF,0,0,0,0,Hellas Verona,Unknown,Unknown
 Andrija Zivkovic,Serbia,MF,0,0,0,0,PAOK,Unknown,Unknown
